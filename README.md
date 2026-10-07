@@ -5,5 +5,6 @@
 - On a quest to consume *lots* of sushi.
 
 ### I work on
-- [Teslascope](https://teslascope.com/) ([Github](https://github.com/teslascope)), a worldwide hub for Tesla vehicle owners and fans.
-- [Maplestory Network](https://maplestory.net/) ([Github](https://github.com/crrio)), a network of web services focused around the MMORPG, Maplestory.
+- [Vehiclescope](https://vehiclescope.com/) ([Github](https://github.com/vehiclescope)), which manages EV-focused products like
+  - [Teslascope](https://teslascope.com/), a companion for Tesla vehicles, recording travels and charges, alongside a suite of features for owners.
+- [Maplestory Network](https://maplestory.net/) ([Github](https://github.com/crrio)), a worldwide platform focused around the MMORPG, Maplestory.
